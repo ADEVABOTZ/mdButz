@@ -1,22 +1,22 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['6285713848184'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'DEVA24OFC'
+global.numberowner = '6285713848184'
+global.instagram = 'GU GA PUNYA IG. T_T'
+global.github = 'https://github.com/'
+global.dana = 'CHAT OWNER AJA'
+global.pulsa = 'CHAT OWNER AJA'
+global.gopay = 'KATA OWNER GA PUNYA'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'DEVA24BOTZ-MD,'
+global.gc = 'GA PUNYA T_T'
+global.web = 'https://saweria.co/Deva24' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 Minggu = 4.000\n1 Bulan 6.000\n1 Tahun 8.000\nPermanen 10.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 DEVA24BOTZ-MD あ⁩ 」'
+global.wm3 = 'DEVA24BOTZ-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© DEVA24 OFC'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
